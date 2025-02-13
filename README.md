@@ -1,5 +1,5 @@
 
-# fork自[移植“沉浸式翻译”到Thunderbird实现邮件翻译](https://linux.do/t/topic/285525)
+# 参考自[移植“沉浸式翻译”到Thunderbird实现邮件翻译](https://linux.do/t/topic/285525)
 
 ## 1. 注入 `background.js`
 
